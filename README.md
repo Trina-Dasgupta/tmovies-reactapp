@@ -2,9 +2,9 @@
 
     Responsive React Movies App With API
 
-# Video tutorial
+# Website url:
 
-    https://youtu.be/ntYXj9W1Ez8
+    https://tmovies-movietrailer.netlify.app/
 
 # Resource
 
